@@ -1,0 +1,14 @@
+company,ticker,statement,accessionNumber,filingDate,period,formType,filingCount,LineItem,Amount
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,RevenueFromContractWithCustomerExcludingAssessedTax,307394000000.0
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,CostOfRevenue,133332000000.0
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,ResearchAndDevelopmentExpense,45427000000.0
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,SellingAndMarketingExpense,27917000000.0
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,GeneralAndAdministrativeExpense,16425000000.0
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,CostsAndExpenses,223101000000.0
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,OperatingIncomeLoss,84293000000.0
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,NonoperatingIncomeExpense,1424000000.0
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,85717000000.0
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,IncomeTaxExpenseBenefit,11922000000.0
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,NetIncomeLoss,73795000000.0
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,EarningsPerShareBasic,5.84
+Alphabet Inc.,GOOGL,Consolidated Statements Of Income,0001652044-24-000022,2024-01-31T00:00:00,2023-12-31T00:00:00,10-K,0,EarningsPerShareDiluted,5.8
